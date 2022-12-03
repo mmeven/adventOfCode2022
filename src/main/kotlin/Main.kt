@@ -4,7 +4,8 @@ fun main(args: Array<String>) {
     println("Hello World!")
 
     //measure("resolveDay1") { resolveDay1() }
-    measure("resolveDay2") { resolveDay2() }
+    //measure("resolveDay2") { resolveDay2() }
+    measure("resolveDay3") { resolveDay3() }
 }
 
 fun measure(text: String, code: () -> Unit) {
