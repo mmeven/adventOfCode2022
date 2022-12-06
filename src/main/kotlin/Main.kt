@@ -7,7 +7,8 @@ fun main(args: Array<String>) {
     //measure("resolveDay2") { resolveDay2() }
     //measure("resolveDay3") { resolveDay3() }
     //measure("resolveDay4") { resolveDay4() }
-    measure("resolveDay5") { resolveDay5() }
+    //measure("resolveDay5") { resolveDay5() }
+    measure("resolveDay6") { resolveDay6() }
 }
 
 fun measure(text: String, code: () -> Unit) {
